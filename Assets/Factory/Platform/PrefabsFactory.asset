@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f78b40539e826b44ea1b99d57bc0845e, type: 3}
+  m_Name: PrefabsFactory
+  m_EditorClassIdentifier: 
+  platformPrefabs:
+  - platformType: 1
+    platform: {fileID: 5714908693497854763, guid: 4dbde9bd394266840bca9a92f53b9216, type: 3}
+  - platformType: 2
+    platform: {fileID: 3005856424524793001, guid: 063f9516dca66364aa90b84dcba038e3, type: 3}
+  - platformType: 3
+    platform: {fileID: 6669857001669546598, guid: f9f9902cdaf1da14f9d023cb7261908f, type: 3}
+  - platformType: 4
+    platform: {fileID: 3499615754032513867, guid: 81aa77efea4478d448972f3ac8407da4, type: 3}
+  - platformType: 5
+    platform: {fileID: 4473597290127810869, guid: 8d5f1f776027c5b4cae78cb8462a8c73, type: 3}
+  - platformType: 6
+    platform: {fileID: 7662383038079620230, guid: 3c0acedde9fae63459869d8a671bf8a1, type: 3}
+  - platformType: 7
+    platform: {fileID: 6556050163208749461, guid: 7b3166370b35ae144855f97beaec6a38, type: 3}
